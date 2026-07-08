@@ -1,0 +1,5 @@
+Jul 8 10:02:03 sshd Failed password for root from 192.168.1.10
+Jul 8 10:03:12 sshd Accepted password for himanshu from 192.168.1.15
+Jul 8 10:04:45 sudo himanshu : COMMAND=/bin/bash
+Jul 8 10:05:10 sshd Failed password for admin from 192.168.1.20
+Jul 8 10:06:33 sshd Failed password for root from 192.168.1.20
